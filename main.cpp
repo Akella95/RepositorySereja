@@ -7,6 +7,7 @@ int main()
     cin>>m;
     sum=n+m;
     razn=n-m;
-    cout<<"summa"<<" "<<sum<<"\n ";
-    cout<<"raznost"<<" "<<razn;
+    cout<<"summa"<<" "<<sum<<"\n";
+    cout<<"raznost"<<" "<<razn<<"\n";
+    cout<<"delenie "<<n/m<<"\n";
 }
