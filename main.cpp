@@ -1,4 +1,5 @@
 #include "sdt.h"
+// example programm
 int main()
 {
     int n,m,sum,razn;
@@ -8,5 +9,6 @@ int main()
     sum=n+m;
     razn=n-m;
     cout<<"summa"<<" "<<sum<<"\n ";
-    cout<<"raznost"<<" "<<razn;
+    cout<<"raznost"<<" "<<razn<<"\n " ;
+    cout<<"proizvedenie "<< n*m<<'\n';
 }
